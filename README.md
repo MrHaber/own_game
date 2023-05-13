@@ -16,5 +16,5 @@ Apache License
 Version 2.0
 ## Special thanks
 
-Pavel Smirnov (UI design/tester)<br />
+[Out0fM1n3](https://github.com/Out0fM1n3) (UI design/Developer)<br />
 Dylan Musil (JSON Architect)
